@@ -1,10 +1,20 @@
 # Raspberry Pi 3B/3B+ 2FA
 
-This software provides an alternate 2FA phone number on a Raspberry Pi 3/3B+.  This MVP only receives SMS.
-It solves the problem of companies requiring you to add a mobile phone number to your account and then using that phone number for targeting ads, leaking it, etc.  Companies keep doing this.  And I don’t see them stopping.
+This MVP software provides an alternate second factor authentication (2FA) phone number on a Raspberry Pi 3B/3B+.  It solves the problem of companies requiring you to add a mobile phone number to your account and then using that phone number for targeting ads, leaking the phone number, etc. Companies keep doing this.  And I don’t see them stopping.
 
 Hacker news discussion that inspired me:
 https://news.ycombinator.com/item?id=32399949
+
+This MVP only receives SMS.  Voice can be added relatively easily.
+
+I built this for myself and I'm really happy with it.  I want to know if enough people are interested for me to commercialize it.
+To cover my costs, I will either charge a small monthly subscription fee or upcharge the twilio usage.  I am not looking to get rich here, just to provide a needed service.
+
+There are some account setup challenges that I need help figuring out.
+* Twilio
+Twilio uses webhooks.  Setting up Twilio webhooks is error prone.  My original idea was to ask for the Twilio account sid and auth token and do the setup on behalf of the user.  I 
+* SIP Signalling
+
 
 ## How to sign up
 * Sign up for a free Twilio Account https://www.twilio.com/try-twilio
