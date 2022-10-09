@@ -10,11 +10,11 @@ Below are a couple of screenshots.
 1.  The software is running and the Pi is waiting for an SMS.  <br />
 ![Screenshot](waiting.png)  
 
-2.  An SMS (or two) comes in it is displayed
+2.  An SMS (or two) comes in and they are displayed is a scrolling list.
 
 ![Screenshot](with-messages.png)
 
-The Pi3B is headless and I'm accessing it over VNC.
+For this demo, the Pi3B is headless and I'm accessing it over VNC.  I also have it working on the official Raspberry Pi Touch Screen.
 
 I built this for myself and I've been really happy with it.  I want to know if enough people are interested for me to commercialize it.
 To cover my costs, I will eventually charge a small monthly subscription fee or upcharge the twilio usage.  I am not looking to get rich here, just to provide a needed service.
