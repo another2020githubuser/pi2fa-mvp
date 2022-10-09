@@ -5,7 +5,25 @@ This MVP software provides an alternate second factor authentication (2FA) phone
 Hacker news discussion that inspired me:
 https://news.ycombinator.com/item?id=32399949
 
+## Demo
+Below are a couple of screenshots and a short video demo.
+
+
+
+The Pi3B is headless and I'm accessing it over VNC.
+
+
+
+
 This MVP only receives SMS.  Voice can be added relatively easily.
+
+
+
+
+
+
+
+
 
 I built this for myself and I'm really happy with it.  I want to know if enough people are interested for me to commercialize it.
 To cover my costs, I will either charge a small monthly subscription fee or upcharge the twilio usage.  I am not looking to get rich here, just to provide a needed service.
