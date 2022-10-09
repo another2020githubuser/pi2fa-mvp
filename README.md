@@ -7,9 +7,10 @@ https://news.ycombinator.com/item?id=32399949
 
 ## Demo
 Below are a couple of screenshots and a short video demo.
-Most of the time, the Pi is just waiting.
+Below, the Pi is waiting.
 ![Screenshot](waiting.png)
-And when an SMS
+And when an SMS comes in it is displayed
+![Screenshot]
 
 The Pi3B is headless and I'm accessing it over VNC.
 
