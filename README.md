@@ -17,17 +17,6 @@ Below are a couple of screenshots.
 The Pi3B is headless and I'm accessing it over VNC.
 
 I built this for myself and I've been really happy with it.  I want to know if enough people are interested for me to commercialize it.
-To cover my costs, I will either charge a small monthly subscription fee or upcharge the twilio usage.  I am not looking to get rich here, just to provide a needed service.
+To cover my costs, I will eventually charge a small monthly subscription fee or upcharge the twilio usage.  I am not looking to get rich here, just to provide a needed service.
 
-There are some account setup challenges that I need help figuring out.
-* Twilio
-Twilio uses webhooks.  Setting up Twilio webhooks is error prone.  My original idea was to ask for the Twilio account sid and auth token and do the setup on behalf of the user.  I 
-* SIP Signalling
-
-
-## How to sign up
-* Sign up for a free Twilio Account https://www.twilio.com/try-twilio
-* Sign up for a free iptel.org sip account https://serweb.iptel.org/user/reg/index.php
-* Fill out this form
-* Get an email from me with credentials.txt attached
-* Flash bullseye on Pi 3B/3B+
+The code is Python3 and Gtk
