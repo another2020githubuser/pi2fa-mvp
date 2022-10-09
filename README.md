@@ -10,7 +10,7 @@ Below are a couple of screenshots.
 1.  The software is running and the Pi is waiting for an SMS.  <br />
 ![Screenshot](waiting.png)  
 
-2.  An SMS (or two) comes in and they are displayed is a scrolling list.
+2.  An SMS (or two) comes in and they are displayed in a scrolling list.
 
 ![Screenshot](with-messages.png)
 
