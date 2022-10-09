@@ -6,28 +6,17 @@ Hacker news discussion that inspired me:
 https://news.ycombinator.com/item?id=32399949
 
 ## Demo
-Below are a couple of screenshots and a short video demo.
-Below, the Pi is waiting.
-![Screenshot](waiting.png)
-And when an SMS comes in it is displayed
+Below are a couple of screenshots.
+1.  The software is running and the Pi is waiting for an SMS.  <br />
+![Screenshot](waiting.png)  
+
+2.  An SMS (or two) comes in it is displayed
+
 ![Screenshot](with-messages.png)
 
 The Pi3B is headless and I'm accessing it over VNC.
 
-
-
-
-This MVP only receives SMS.  Voice can be added relatively easily.
-
-
-
-
-
-
-
-
-
-I built this for myself and I'm really happy with it.  I want to know if enough people are interested for me to commercialize it.
+I built this for myself and I've been really happy with it.  I want to know if enough people are interested for me to commercialize it.
 To cover my costs, I will either charge a small monthly subscription fee or upcharge the twilio usage.  I am not looking to get rich here, just to provide a needed service.
 
 There are some account setup challenges that I need help figuring out.
