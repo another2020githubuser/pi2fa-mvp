@@ -1,4 +1,4 @@
-# Raspberry Pi 3B/3B+ 2FA
+# Raspberry Pi 2FA
 
 This MVP software provides a cheap, alternate second factor authentication (2FA) phone number on a Raspberry Pi 3B/3B+.  It solves the problem of companies requiring you to add a mobile phone number to your account and then using that phone number for targeting ads, leaking the phone number, etc. Companies keep doing this.  And I don’t see them stopping.
 
