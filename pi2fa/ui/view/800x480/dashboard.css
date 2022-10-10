@@ -1,0 +1,60 @@
+
+.frame_style_class{
+    margin-top : 10px;
+    margin-left: 15px;
+    margin-bottom: 10px;
+    margin-right: 25px;
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 10px;
+    font-size: 25px;
+    }
+    
+    /* this is also reproduced in voicemail */
+    .frame_internal_positioning_grid {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    }
+    
+    /* Spacing betweeen voicemail total and viewport
+    Only important when scrolling. */
+    .voicemail_scrolled_window_style_class {
+    margin-top: 10px;
+    }
+    
+    .sms_notification_style_class {
+    font-size: 25px;
+    }
+    
+    .dashboard_phone_number_style_class {
+        padding-top: 10px;
+        font-size: 30px;
+        font-weight: bold;
+    }
+    
+    .missed_call_notification_style_class {
+    font-size: 25px;
+    }
+    
+    .timestamp-style-class {
+        margin-top: 5px;
+        border-style: solid;
+        border-width: 3px;
+        padding-left: 9px;
+    }
+    
+    .sms_content_style_class { 
+    padding-right: 10px;
+    }
+    
+    .timestamp-close-x-style-class {
+    margin: 10px;
+    }
+    
+    .button_style_class {
+    margin: 10px;
+    font-size: 25px;
+    border-radius: 25px;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    }
