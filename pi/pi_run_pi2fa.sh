@@ -1,0 +1,9 @@
+#! /bin/bash
+export TARGET_MONITOR_RESOLUTION=800x480
+export PROFILE_URL=
+export USERNAME=
+export PASSWORD=
+export PHONE_NUMBER=
+cd /home/pi/pi2fa
+source venv/bin/activate
+./venv/bin/python3 /home/pi/pi2fa/venv/lib/python3.9/site-packages/pi2fa/main.py
