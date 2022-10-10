@@ -5,6 +5,7 @@ This MVP software provides a cheap, alternate second factor authentication (2FA)
 Hacker news discussion that inspired me:
 https://news.ycombinator.com/item?id=32399949
 
+Please take the [Poll](https://github.com/another2020githubuser/pi2fa-mvp/discussions/2).  I would like to know how many people are interested in this idea.
 ## Demo
 Below are a couple of screenshots.
 1.  The software is running and the Pi is waiting for an SMS.  <br />
